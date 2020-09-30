@@ -1,0 +1,462 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "name": "Unity",
+      "color": "#000",
+      "link_extra": {
+        "description": "Vídeos e tutoriais sobre a Unity",
+        "url": "https://unity.com/learn"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Back End",
+      "color": "#242424",
+      "link_extra": {
+        "description": "Desenhos do Bob Esponja",
+        "url": "https://www.youtube.com/watch?v=F7pMEyJ9hDg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Construct",
+      "color": "#b4d6d0",
+      "link_extra": {
+        "description": "Vídeos e tutoriais sobre a Construct 3",
+        "url": "https://www.construct.net/en/tutorials?flang=1"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Game Maker Studio",
+      "color": "#00e070",
+      "link_extra": {
+        "description": "Vídeos e tutoriais sobre a Game Maker Studio 2",
+        "url": "https://www.yoyogames.com/learn"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Godot",
+      "color": "#2790db",
+      "link_extra": {
+        "description": "Vídeos e tutoriais sobre a Godot",
+        "url": "https://docs.godotengine.org/en/stable/"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Programação em geral",
+      "color": "#6b5be2",
+      "link_extra": {
+        "description": "Tudo sobre o mundo da programação",
+        "url": "/"
+      }
+    },
+    {
+      "name": "Pixel Art",
+      "color": "#fbd600",
+      "link_extra": {
+        "description": "Tutoriais sobre Pixel Art",
+        "url": ""
+      },
+      "id": 7
+    },
+    {
+      "name": "Modelagem 3D",
+      "link_extra": {
+        "description": "Tutoriais sobre modelagem em 3D",
+        "url": ""
+      },
+      "color": "#7e4425",
+      "id": 8
+    },
+    {
+      "name": "Arte Digital",
+      "link_extra": {
+        "description": "Tutoriais sobre Arte Digital",
+        "url": ""
+      },
+      "color": "#ed4eed",
+      "id": 9
+    },
+    {
+      "name": "Composição Musical",
+      "link_extra": {
+        "description": "Vídeos e Tutoriais sobre Composição Musical",
+        "url": ""
+      },
+      "color": "#6bf3af",
+      "id": 10
+    },
+    {
+      "name": "Game Design",
+      "link_extra": {
+        "description": "Vídeos sobre Game Design",
+        "url": ""
+      },
+      "color": "#f74815",
+      "id": 11
+    },
+    {
+      "name": "Games em Geral",
+      "link_extra": {
+        "description": "Vídeos sobre o mundo dos Jogos",
+        "url": ""
+      },
+      "color": "#53b061",
+      "id": 12
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Qual a melhor Game Engine pra você?",
+      "url": "https://www.youtube.com/watch?v=anfvRMmw9Ko"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Usando GitHub com a Unity",
+      "url": "https://www.youtube.com/watch?v=WYNWFhTdPQc"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Como instalar a Unity",
+      "url": "https://www.youtube.com/watch?v=wHzu5Cf9ig4"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Introdução à programação na Unity",
+      "url": "https://www.youtube.com/watch?v=QbeUlT_MuZ0"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Criando um jogo do zero na Unity",
+      "url": "https://www.youtube.com/watch?v=PEq3VXgpYnI"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Criando um clone do clássico Pong",
+      "url": "https://www.youtube.com/watch?v=nWjIow7zNF8&t"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Criando um jogo estilo 'Endless Runner' (Em inglês)",
+      "url": "https://www.youtube.com/watch?v=5M7vX_z6B9I"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Criando sistema de movimentação e pulo na Unity 2D",
+      "url": "https://www.youtube.com/watch?v=CG_edbQkU-s"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Introdução à Unreal Engine 4",
+      "url": "https://www.youtube.com/watch?v=EULdjxvX2Mg&feature=youtu.be"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Tipo ACTOR, aprenda a Abrir e Fechar uma porta na Unreal Engine",
+      "url": "https://www.youtube.com/watch?v=reDc4gRZ_NQ"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Como instalar a Unreal Engine 4",
+      "url": "https://www.youtube.com/watch?v=blJXTOxEghg"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Entenda as Vantagens e Desvantagens da Unreal Engine",
+      "url": "https://www.youtube.com/watch?v=g3MsOnBvJN0"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Aprenda todo o básico sobre a Unreal Engine (Em Inglês)",
+      "url": "https://www.youtube.com/watch?v=a0qNO6_xPx0"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Curso Grátis sobre desenvolvimento na Construct 3",
+      "url": "https://www.youtube.com/watch?v=3zNqpbGd8FM"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Como funciona uma variável na Construct 3",
+      "url": "https://www.youtube.com/watch?v=xTUWcTquhfE"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Criando um jogo Plataforma na Construct 3",
+      "url": "https://www.youtube.com/watch?v=SviTX9jNFhg"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Entenda a interface do Construct 3",
+      "url": "https://www.youtube.com/watch?v=3HWLRKVkPNc"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Criando um jogo plataforma na Game Maker Studio 2",
+      "url": "https://www.youtube.com/watch?v=eDlTuvZkVKY"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Criando um jogo RPG na Game Maker Studio 2",
+      "url": "https://www.youtube.com/watch?v=zGYXQ90FJh0"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "5 Jogos sensacionais feitos na Game Maker Studio",
+      "url": "https://www.youtube.com/watch?v=qcScAChA5yE"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Como instalar a Game Maker Studio 2",
+      "url": "https://www.youtube.com/watch?v=Fw8JR9PXDsM"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "Introdução à Godot",
+      "url": "https://www.youtube.com/watch?v=gvMmYw8fDJU"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Criando um jogo plataforma na Godot",
+      "url": "https://www.youtube.com/watch?v=LR6D5bunRqg"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Aprenda o básico da Godot Engine em 50 minutos (Em Inglês)",
+      "url": "https://www.youtube.com/watch?v=QftpPI5iYrY"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "Como instalar a Godot Engine",
+      "url": "https://www.youtube.com/watch?v=JJkUJaytkHU"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "Como instalar Addons e Plugins na Godot",
+      "url": "https://www.youtube.com/watch?v=Rh1HlGzm3TM"
+    },
+    {
+      "id": 27,
+      "categoriaId": 6,
+      "titulo": "Como estudar melhor?",
+      "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+    },
+    {
+      "id": 28,
+      "categoriaId": 6,
+      "titulo": "Faculdade",
+      "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+    },
+    {
+      "id": 29,
+      "categoriaId": 6,
+      "titulo": "Livros de Programação que me fizeram não desistir de programar",
+      "url": "https://www.youtube.com/watch?v=Uh0Kn2aXEqY"
+    },
+    {
+      "id": 30,
+      "categoriaId": 6,
+      "titulo": "Não decore Códigos, Início de carreira...",
+      "url": "https://www.youtube.com/watch?v=2zie2R1IWQ4"
+    },
+    {
+      "id": 31,
+      "categoriaId": 6,
+      "titulo": "Aprendendo a Aprender",
+      "url": "https://www.youtube.com/watch?v=oUPaJxk6TZ0"
+    },
+    {
+      "titulo": "Limpando a 'Line Work' (Em Inglês)",
+      "url": "https://www.youtube.com/watch?v=NMkm3lrVFlM",
+      "categoriaId": 7,
+      "id": 32
+    },
+    {
+      "titulo": "GueioRunner 1-15",
+      "url": "https://www.youtube.com/watch?v=wW2HXeVqapo",
+      "categoriaId": 6,
+      "id": 33
+    },
+    {
+      "titulo": "Como começar no Blender",
+      "url": "https://www.youtube.com/watch?v=hNhkE-brr7o",
+      "categoriaId": 8,
+      "id": 34
+    },
+    {
+      "titulo": "Como desenhar com o mouse",
+      "url": "https://www.youtube.com/watch?v=wEYiPk58KfE",
+      "categoriaId": 9,
+      "id": 35
+    },
+    {
+      "titulo": "Teoria Musical em 1 hora",
+      "url": "https://www.youtube.com/watch?v=CYFcEyne4xc",
+      "categoriaId": 10,
+      "id": 36
+    },
+    {
+      "titulo": "Validação de Formulário com React",
+      "url": "https://www.youtube.com/watch?v=-nYNd6EuZHU&feature=youtu.be",
+      "categoriaId": 6,
+      "id": 37
+    },
+    {
+      "titulo": "O que estudar antes de Aprender um FrameWork?",
+      "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI",
+      "categoriaId": 6,
+      "id": 38
+    },
+    {
+      "titulo": "História do Minecraft",
+      "url": "https://www.youtube.com/watch?v=kcmzIXeliMg",
+      "categoriaId": 12,
+      "id": 39
+    },
+    {
+      "titulo": "Criação do Hollow Knight",
+      "url": "https://www.youtube.com/watch?v=E4eoHLskxwE",
+      "categoriaId": 12,
+      "id": 40
+    },
+    {
+      "titulo": "Criação do Cuphead",
+      "url": "https://www.youtube.com/watch?v=iY2dozu-OVw",
+      "categoriaId": 12,
+      "id": 41
+    },
+    {
+      "titulo": "Criação do Stardew Valley",
+      "url": "https://www.youtube.com/watch?v=_AZRvSb54WQ",
+      "categoriaId": 12,
+      "id": 42
+    },
+    {
+      "titulo": "Dicas para Iniciantes em Pixel Art",
+      "url": "https://www.youtube.com/watch?v=3G8jpTduUlU",
+      "categoriaId": 7,
+      "id": 43
+    },
+    {
+      "titulo": "O que Faz e Quanto Ganha um Gamer Designer?",
+      "url": "https://www.youtube.com/watch?v=k9ms0NEjNCw",
+      "categoriaId": 11,
+      "id": 44
+    },
+    {
+      "titulo": "Criando e Exportando uma Animação em Pixel Art",
+      "url": "https://www.youtube.com/watch?v=DrcMWt94QUQ",
+      "categoriaId": 7,
+      "id": 45
+    },
+    {
+      "titulo": "Sites para Baixar Modelos 3D Gratuitos ",
+      "url": "https://www.youtube.com/watch?v=btW1ZJDj6as",
+      "categoriaId": 8,
+      "id": 46
+    },
+    {
+      "titulo": "Vidas em Jogos",
+      "url": "https://www.youtube.com/watch?v=VvX5zSw3-l8",
+      "categoriaId": 11,
+      "id": 47
+    },
+    {
+      "titulo": "Como Criar um Pixe Art do Piskel",
+      "url": "https://www.youtube.com/watch?v=bZcxxA2OxwU",
+      "categoriaId": 7,
+      "id": 48
+    },
+    {
+      "titulo": "GDD de Uma Página",
+      "url": "https://www.youtube.com/watch?v=BDTuR8FkP0s",
+      "categoriaId": 11,
+      "id": 49
+    },
+    {
+      "titulo": "Câmeras em Jogos de Plataforma",
+      "url": "https://www.youtube.com/watch?v=rbjPj9SfK_M",
+      "categoriaId": 11,
+      "id": 50
+    },
+    {
+      "titulo": "Modelagem 3D para Jogos",
+      "url": "https://www.youtube.com/watch?v=e6qHmNB43f4",
+      "categoriaId": 8,
+      "id": 51
+    },
+    {
+      "titulo": "5 Programas de Modelagem 3D Fantásticos",
+      "url": "https://www.youtube.com/watch?v=lmP1O8Z6Ahk",
+      "categoriaId": 8,
+      "id": 52
+    },
+    {
+      "titulo": "Introdução à Arte Digital",
+      "url": "https://www.youtube.com/watch?v=x7HCgpV8P7c",
+      "categoriaId": 9,
+      "id": 53
+    },
+    {
+      "titulo": "5 Erros de Iniciantes em Arte Digital",
+      "url": "https://www.youtube.com/watch?v=mLBkWjEcDMg",
+      "categoriaId": 9,
+      "id": 54
+    },
+    {
+      "titulo": "O que é a Arte Digital?",
+      "url": "https://www.youtube.com/watch?v=ZqH2G35meNQ",
+      "categoriaId": 9,
+      "id": 55
+    },
+    {
+      "titulo": "Introdução à Harmonia Funcional",
+      "url": "https://www.youtube.com/watch?v=-Ms2XDHUKSM",
+      "categoriaId": 10,
+      "id": 56
+    },
+    {
+      "titulo": "Curso de Harmonia Musical",
+      "url": "https://www.youtube.com/watch?v=Qazo6i2D1UQ",
+      "categoriaId": 10,
+      "id": 57
+    },
+    {
+      "titulo": "Criando Músicas com o Bosca Ceoil",
+      "url": "https://www.youtube.com/watch?v=rddzz3ieNc4",
+      "categoriaId": 10,
+      "id": 58
+    }
+  ]
+}

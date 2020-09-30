@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "1999 - Bob Esponja",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Desenhos do Bob Esponja",
+        "url": "https://www.youtube.com/watch?v=F7pMEyJ9hDg"
+      },
+      "videos": [
+        {
+          "titulo": "Vários desenhos em um unico lugar #desenhos",
+          "url": "https://www.youtube.com/watch?v=F7pMEyJ9hDg"
+        },
+        {
+          "titulo": "Viagem de carro! | Bob Esponja",
+          "url": "https://www.youtube.com/watch?v=xiydZt_15Ms"
+        },
+        {
+          "titulo": "A fenda do Patrick | Bob Esponja",
+          "url": "https://www.youtube.com/watch?v=qsjingRokqY"
+        },
+        {
+          "titulo": "Mini Bob Esponja | Bob Esponja",
+          "url": "https://www.youtube.com/watch?v=--bqmYAf2HM"
+        },
+        {
+          "titulo": "Manteiga de nozes | Bob Esponja ",
+          "url": "https://www.youtube.com/watch?v=6nvWzuQEqrc"
+        },
+        {
+          "titulo": "Mestre dos Hambúrgueres | Bob Esponja",
+          "url": "https://www.youtube.com/watch?v=8QlUeDwKy-4"
+        },
+        {
+          "titulo": "Cenas fofas | Parte 2 | Bob Esponja",
+          "url": "https://www.youtube.com/watch?v=TzClu36PjCY"
+        },
+        {
+          "titulo": "Spongebob | Melhor Amigo",
+          "url": "https://www.youtube.com/watch?v=M7jJQFoyoGU"
+        }        
+      ]
+    },
+    {
+      "titulo": "1957 - Pica-Pau",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Desenhos do Pica-Pau",
+        "url": "https://www.youtube.com/watch?v=zsCnhZUKM80"
+      },
+      "videos": [
+        {
+          "titulo": "Pica-Pau | Encontro com o Destino",
+          "url": "https://www.youtube.com/watch?v=jAlCXZdSkVQ"
+        },
+        {
+          "titulo": "Pica-Pau Briga pra Ninguém Botar Defeito",
+          "url": "https://www.youtube.com/watch?v=Ckb_o8H8udI"
+        },
+        {
+          "titulo": "Pica-Pau | Meio-Dia Quente ",
+          "url": "https://www.youtube.com/watch?v=vZaLuNGIX7w"
+        },
+        {
+          "titulo": "Pica-Pau | Guerra da Salsicha",
+          "url": "https://www.youtube.com/watch?v=WLM6s6PUjNU"
+        }, 
+        {
+          "titulo": "Pica-Pau | Temperamento temperamento",
+          "url": "https://www.youtube.com/watch?v=M2QpeUZU8tE"
+        }
+      ]
+    },
+    {
+      "titulo": "1959 - Turma da Mônica",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Desenhos da Turma da Mônica",
+        "url": "https://www.youtube.com/watch?v=FapEtCJXVlU"
+      },
+      "videos": [
+        {
+          "titulo": "Brincadeiras Modernas | Turma da Mônica",
+          "url": "https://www.youtube.com/watch?v=zKUpkxP94_U"
+        },
+        {
+          "titulo": "Maratona com a Turminha | Turma da Mônica",
+          "url": "https://www.youtube.com/watch?v=ehc7MR-WK4s"
+        },
+        {
+          "titulo": "E assim se passaram 30 anos | Turma da Mônica",
+          "url": "https://www.youtube.com/watch?v=1LdY0j7C_y8"
+        },
+        {
+          "titulo": "Os Plano da Falsa Amiga | Turma da Mônica",
+          "url": "https://www.youtube.com/watch?v=evRUKJn4X1A"
+        }
+      ]
+    },
+    {
+      "titulo": "1981 - Desenhos dos Ursinhos Carinhosos",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Desenhos dos Ursinhos Carinhosos",
+          "url": "https://www.youtube.com/watch?v=ql5cLRDxok0"
+        },
+        {
+          "titulo": "Ursinhos Carinhosos - Uma hora de desenhos",
+          "url": "https://www.youtube.com/watch?v=TwpQnrGVlBo"
+        },
+        {
+          "titulo": "Ursinhos carinhosos - a surpesa de acao de gracas da vovó ursinha",
+          "url": "https://www.youtube.com/watch?v=SviW_nxN9yo"
+        },
+        {
+          "titulo": "Ursinhos Carinhosos - Carinhosa demais",
+          "url": "https://www.youtube.com/watch?v=SKNP3fwVsvM"
+        }
+      ]
+    },
+    {
+      "titulo": "1984 - Dragon Ball",
+      "cor": "red",
+      "link_extra": {
+        "text": "Desenhos do Dragon Ball",
+        "url": "https://www.youtube.com/watch?v=KfWrwBCYfsk&pbjreload=101"
+      },
+      "videos": [
+        {
+          "titulo": "DRAGONBALL SUPER - GOKU E O TORNEIO DOS DEUSES",
+          "url": "https://www.youtube.com/watch?v=5crv52CSf_Q"
+        },
+        {
+          "titulo": "COMO JIREN CONSEGUIU SUPERAR o PODER Dos DEUSES",
+          "url": "https://www.youtube.com/watch?v=nmAqOniwiA8"
+        },
+        {
+          "titulo": "DRAGON BALL SUPER - O SAYAJIN DEUS E GOKU X BEERUS",
+          "url": "https://www.youtube.com/watch?v=689KyDH-7wQ"
+        },
+        {
+          "titulo": "DRAGONBALL SUPER - O RETORNO DE FREEZA",
+          "url": "https://www.youtube.com/watch?v=WX7zqaMeUNE"
+        },
+        {
+          "titulo": "Dragon Ball Super AMV Universe 7 VS Universe 9",
+          "url": "https://www.youtube.com/watch?v=_6iam0pceZU"
+        }
+      ]
+    },
+    {
+      "titulo": "1980 - Caverna Do Dragão",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Desenhos da Caverna Do Dragão",
+        "url": "https://www.youtube.com/watch?v=gxsHBi95PrU"
+      },
+      "videos": [
+        {
+          "titulo": "Caverna do dragão episodio final",
+          "url": "https://www.youtube.com/watch?v=VRZHJHZKdAQ"
+        },
+        {
+          "titulo": "O MAIOR MISTÉRIO DE CAVERNA DO DRAGÃO",
+          "url": "https://www.youtube.com/watch?v=wdRosqe7F8w"
+        },
+        {
+          "titulo": "Último Episódio CAVERNA DO DRAGÃO",
+          "url": "https://www.youtube.com/watch?v=jaTtQwyOo8A"
+        },
+        {
+          "titulo": "O FINAL EXPLICADO DE CAVERNA DO DRAGÃO",
+          "url": "https://www.youtube.com/watch?v=cE71oubDtbI"
+        },
+        {
+          "titulo": "O Dia do Mestre dos Magos",
+          "url": "https://www.youtube.com/watch?v=rp5NSSv0qZ8"
+        }
+      ]
+    }
+  ]
+}
