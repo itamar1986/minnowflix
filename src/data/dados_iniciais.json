@@ -1,183 +1,187 @@
 {
   "categorias": [
     {
-      "titulo": "1999 - Bob Esponja",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Unity",
+      "link": "https://unity.com/",
+      "cor": "#000000",
       "link_extra": {
-        "text": "Desenhos do Bob Esponja",
-        "url": "https://www.youtube.com/watch?v=F7pMEyJ9hDg"
+        "text": "Vídeos e tutoriais sobre a Unity",
+        "url": "https://unity.com/learn"
       },
       "videos": [
         {
-          "titulo": "Vários desenhos em um unico lugar #desenhos",
-          "url": "https://www.youtube.com/watch?v=F7pMEyJ9hDg"
+          "titulo": "Qual a melhor Game Engine pra você?",
+          "url": "https://www.youtube.com/watch?v=anfvRMmw9Ko"
         },
         {
-          "titulo": "Viagem de carro! | Bob Esponja",
-          "url": "https://www.youtube.com/watch?v=xiydZt_15Ms"
+          "titulo": "Usando GitHub com a Unity",
+          "url": "https://www.youtube.com/watch?v=WYNWFhTdPQc"
         },
         {
-          "titulo": "A fenda do Patrick | Bob Esponja",
-          "url": "https://www.youtube.com/watch?v=qsjingRokqY"
+          "titulo": "Como instalar a Unity",
+          "url": "https://www.youtube.com/watch?v=wHzu5Cf9ig4"
         },
         {
-          "titulo": "Mini Bob Esponja | Bob Esponja",
-          "url": "https://www.youtube.com/watch?v=--bqmYAf2HM"
+          "titulo": "Introdução à programação na Unity",
+          "url": "https://www.youtube.com/watch?v=QbeUlT_MuZ0"
         },
         {
-          "titulo": "Manteiga de nozes | Bob Esponja ",
-          "url": "https://www.youtube.com/watch?v=6nvWzuQEqrc"
+          "titulo": "Criando um jogo do zero na Unity",
+          "url": "https://www.youtube.com/watch?v=PEq3VXgpYnI"
         },
         {
-          "titulo": "Mestre dos Hambúrgueres | Bob Esponja",
-          "url": "https://www.youtube.com/watch?v=8QlUeDwKy-4"
+          "titulo": "Criando um clone do clássico Pong",
+          "url": "https://www.youtube.com/watch?v=nWjIow7zNF8&t=473s"
         },
         {
-          "titulo": "Cenas fofas | Parte 2 | Bob Esponja",
-          "url": "https://www.youtube.com/watch?v=TzClu36PjCY"
+          "titulo": "Criando um jogo estilo 'Endless Runner' (Em inglês)",
+          "url": "https://www.youtube.com/watch?v=5M7vX_z6B9I"
         },
         {
-          "titulo": "Spongebob | Melhor Amigo",
-          "url": "https://www.youtube.com/watch?v=M7jJQFoyoGU"
+          "titulo": "Criando sistema de movimentação e pulo na Unity 2D",
+          "url": "https://www.youtube.com/watch?v=CG_edbQkU-s"
         }        
       ]
     },
     {
-      "titulo": "1957 - Pica-Pau",
-      "cor": "#00C86F",
+      "titulo": "Unreal Engine",
+      "cor": "#242424",
       "link_extra": {
-        "text": "Desenhos do Pica-Pau",
-        "url": "https://www.youtube.com/watch?v=zsCnhZUKM80"
+        "text": "Vídeos e tutoriais sobre a Unreal Engine",
+        "url": "https://www.unrealengine.com/en-US/learn"
       },
       "videos": [
         {
-          "titulo": "Pica-Pau | Encontro com o Destino",
-          "url": "https://www.youtube.com/watch?v=jAlCXZdSkVQ"
+          "titulo": "Introdução à Unreal Engine 4",
+          "url": "https://www.youtube.com/watch?v=EULdjxvX2Mg&feature=youtu.be"
         },
         {
-          "titulo": "Pica-Pau Briga pra Ninguém Botar Defeito",
-          "url": "https://www.youtube.com/watch?v=Ckb_o8H8udI"
+          "titulo": "Tipo ACTOR, aprenda a Abrir e Fechar uma porta na Unreal Engine",
+          "url": "https://www.youtube.com/watch?v=reDc4gRZ_NQ"
         },
         {
-          "titulo": "Pica-Pau | Meio-Dia Quente ",
-          "url": "https://www.youtube.com/watch?v=vZaLuNGIX7w"
+          "titulo": "Como instalar a Unreal Engine 4",
+          "url": "https://www.youtube.com/watch?v=blJXTOxEghg"
         },
         {
-          "titulo": "Pica-Pau | Guerra da Salsicha",
-          "url": "https://www.youtube.com/watch?v=WLM6s6PUjNU"
+          "titulo": "Entenda as Vantagens e Desvantagens da Unreal Engine",
+          "url": "https://www.youtube.com/watch?v=g3MsOnBvJN0"
         }, 
         {
-          "titulo": "Pica-Pau | Temperamento temperamento",
-          "url": "https://www.youtube.com/watch?v=M2QpeUZU8tE"
+          "titulo": "Aprenda todo o básico sobre a Unreal Engine (Em Inglês)",
+          "url": "https://www.youtube.com/watch?v=a0qNO6_xPx0"
         }
       ]
     },
     {
-      "titulo": "1959 - Turma da Mônica",
-      "cor": "#9cd33b",
+      "titulo": "Construct",
+      "cor": "#b4d6d0",
       "link_extra": {
-        "text": "Desenhos da Turma da Mônica",
-        "url": "https://www.youtube.com/watch?v=FapEtCJXVlU"
+        "text": "Vídeos e tutoriais sobre a Construct 3",
+        "url": "https://www.construct.net/en/tutorials?flang=1"
       },
       "videos": [
         {
-          "titulo": "Brincadeiras Modernas | Turma da Mônica",
-          "url": "https://www.youtube.com/watch?v=zKUpkxP94_U"
+          "titulo": "Curso Grátis sobre desenvolvimento na Construct 3",
+          "url": "https://www.youtube.com/watch?v=3zNqpbGd8FM"
         },
         {
-          "titulo": "Maratona com a Turminha | Turma da Mônica",
-          "url": "https://www.youtube.com/watch?v=ehc7MR-WK4s"
+          "titulo": "Como funciona uma variável na Construct 3",
+          "url": "https://www.youtube.com/watch?v=xTUWcTquhfE"
         },
         {
-          "titulo": "E assim se passaram 30 anos | Turma da Mônica",
-          "url": "https://www.youtube.com/watch?v=1LdY0j7C_y8"
+          "titulo": "Criando um jogo Plataforma na Construct 3",
+          "url": "https://www.youtube.com/watch?v=SviTX9jNFhg"
         },
         {
-          "titulo": "Os Plano da Falsa Amiga | Turma da Mônica",
-          "url": "https://www.youtube.com/watch?v=evRUKJn4X1A"
+          "titulo": "Entenda a interface do Construct 3",
+          "url": "https://www.youtube.com/watch?v=3HWLRKVkPNc"
         }
       ]
     },
     {
-      "titulo": "1981 - Desenhos dos Ursinhos Carinhosos",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Desenhos dos Ursinhos Carinhosos",
-          "url": "https://www.youtube.com/watch?v=ql5cLRDxok0"
-        },
-        {
-          "titulo": "Ursinhos Carinhosos - Uma hora de desenhos",
-          "url": "https://www.youtube.com/watch?v=TwpQnrGVlBo"
-        },
-        {
-          "titulo": "Ursinhos carinhosos - a surpesa de acao de gracas da vovó ursinha",
-          "url": "https://www.youtube.com/watch?v=SviW_nxN9yo"
-        },
-        {
-          "titulo": "Ursinhos Carinhosos - Carinhosa demais",
-          "url": "https://www.youtube.com/watch?v=SKNP3fwVsvM"
-        }
-      ]
-    },
-    {
-      "titulo": "1984 - Dragon Ball",
-      "cor": "red",
+      "titulo": "Game Maker Studio",
+      "cor": "#00e070",
       "link_extra": {
-        "text": "Desenhos do Dragon Ball",
-        "url": "https://www.youtube.com/watch?v=KfWrwBCYfsk&pbjreload=101"
+        "text": "Vídeos e tutoriais sobre a Game Maker Studio 2",
+        "url": "https://www.yoyogames.com/learn"
       },
       "videos": [
         {
-          "titulo": "DRAGONBALL SUPER - GOKU E O TORNEIO DOS DEUSES",
-          "url": "https://www.youtube.com/watch?v=5crv52CSf_Q"
+          "titulo": "Criando um jogo plataforma na Game Maker Studio 2",
+          "url": "https://www.youtube.com/watch?v=eDlTuvZkVKY"
         },
         {
-          "titulo": "COMO JIREN CONSEGUIU SUPERAR o PODER Dos DEUSES",
-          "url": "https://www.youtube.com/watch?v=nmAqOniwiA8"
+          "titulo": "Criando um jogo RPG na Game Maker Studio 2",
+          "url": "https://www.youtube.com/watch?v=zGYXQ90FJh0"
         },
         {
-          "titulo": "DRAGON BALL SUPER - O SAYAJIN DEUS E GOKU X BEERUS",
-          "url": "https://www.youtube.com/watch?v=689KyDH-7wQ"
+          "titulo": "5 Jogos sensacionais feitos na Game Maker Studio",
+          "url": "https://www.youtube.com/watch?v=qcScAChA5yE"
         },
         {
-          "titulo": "DRAGONBALL SUPER - O RETORNO DE FREEZA",
-          "url": "https://www.youtube.com/watch?v=WX7zqaMeUNE"
-        },
-        {
-          "titulo": "Dragon Ball Super AMV Universe 7 VS Universe 9",
-          "url": "https://www.youtube.com/watch?v=_6iam0pceZU"
+          "titulo": "Como instalar a Game Maker Studio 2",
+          "url": "https://www.youtube.com/watch?v=Fw8JR9PXDsM"
         }
       ]
     },
     {
-      "titulo": "1980 - Caverna Do Dragão",
+      "titulo": "Godot",
+      "cor": "#2790db",
+      "link_extra": {
+        "text": "Vídeos e tutoriais sobre a Godot",
+        "url": "https://docs.godotengine.org/en/stable/"
+      },
+      "videos": [
+        {
+          "titulo": "Introdução à Godot",
+          "url": "https://www.youtube.com/watch?v=gvMmYw8fDJU"
+        },
+        {
+          "titulo": "Criando um jogo plataforma na Godot",
+          "url": "https://www.youtube.com/watch?v=LR6D5bunRqg"
+        },
+        {
+          "titulo": "Aprenda o básico da Godot Engine em 50 minutos (Em Inglês)",
+          "url": "https://www.youtube.com/watch?v=QftpPI5iYrY"
+        },
+        {
+          "titulo": "Como instalar a Godot Engine",
+          "url": "https://www.youtube.com/watch?v=JJkUJaytkHU"
+        },
+        {
+          "titulo": "Como instalar Addons e Plugins na Godot",
+          "url": "https://www.youtube.com/watch?v=Rh1HlGzm3TM"
+        }
+      ]
+    },
+    {
+      "titulo": "Programação em geral",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Desenhos da Caverna Do Dragão",
-        "url": "https://www.youtube.com/watch?v=gxsHBi95PrU"
+        "text": "Tudo sobre o mundo da programação",
+        "url": "/"
       },
       "videos": [
         {
-          "titulo": "Caverna do dragão episodio final",
-          "url": "https://www.youtube.com/watch?v=VRZHJHZKdAQ"
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
         },
         {
-          "titulo": "O MAIOR MISTÉRIO DE CAVERNA DO DRAGÃO",
-          "url": "https://www.youtube.com/watch?v=wdRosqe7F8w"
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
         },
         {
-          "titulo": "Último Episódio CAVERNA DO DRAGÃO",
-          "url": "https://www.youtube.com/watch?v=jaTtQwyOo8A"
+          "titulo": "Livros de Programação que me fizeram não desistir de programar",
+          "url": "https://www.youtube.com/watch?v=Uh0Kn2aXEqY"
         },
         {
-          "titulo": "O FINAL EXPLICADO DE CAVERNA DO DRAGÃO",
-          "url": "https://www.youtube.com/watch?v=cE71oubDtbI"
+          "titulo": "Não decore Códigos, Início de carreira...",
+          "url": "https://www.youtube.com/watch?v=2zie2R1IWQ4"
         },
         {
-          "titulo": "O Dia do Mestre dos Magos",
-          "url": "https://www.youtube.com/watch?v=rp5NSSv0qZ8"
+          "titulo": "Aprendendo a Aprender",
+          "url": "https://www.youtube.com/watch?v=oUPaJxk6TZ0"
         }
       ]
     }

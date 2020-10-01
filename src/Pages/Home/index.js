@@ -14,6 +14,8 @@ function Home() {
 		});
 	}, []);
 
+	console.log(dadosIniciais.length);
+
 	return (
 		<DefaultPage paddingAll={0}>
 
